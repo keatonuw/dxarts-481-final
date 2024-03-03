@@ -1,0 +1,16 @@
+# project-specific files that I don't want in the repo :)
+# for both size and creative reasons
+selected-prompts.txt
+selected-sounds
+sounds-1
+*.wav
+
+
+*.ipynb_checkpoints*
+
+# OS stuff
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Icon?
